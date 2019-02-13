@@ -26,7 +26,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Editors
 
 ## Gaming
-- [battlenet](https://battlenet.com)
+- [battlenet](https://battle.net)
 ## Development Environment
 
 ## Entertainment
