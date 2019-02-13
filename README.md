@@ -1,3 +1,5 @@
+
+
 # awesome-random
 
 A not so curated and random list of amazingly awesome awesomeness.
@@ -24,7 +26,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Editors
 
 ## Gaming
-
+- [battlenet](https://battlenet.com)
 ## Development Environment
 
 ## Entertainment
